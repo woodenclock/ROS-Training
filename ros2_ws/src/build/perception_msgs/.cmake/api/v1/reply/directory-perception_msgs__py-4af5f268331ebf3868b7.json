@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "perception_msgs__py",
+		"source" : "/home/vm/training/ros2_ws/src/build/perception_msgs/perception_msgs__py"
+	}
+}

@@ -1,0 +1,18 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from perception_msgs/srv/GetObjectLocation.srv
+// generated code does not contain a copyright notice
+
+#include "geometry_msgs/msg/Pose.idl"
+
+module perception_msgs {
+  module srv {
+    struct GetObjectLocation_Request {
+      uint8 structure_needs_at_least_one_member;
+    };
+    struct GetObjectLocation_Response {
+      boolean result;
+
+      geometry_msgs::msg::Pose object_pose;
+    };
+  };
+};
