@@ -1,0 +1,37 @@
+[1.563s] Invoking command in '/home/vm/training/new_workspace/src/package1': PYTHONPATH=/home/vm/training/new_workspace/build/package1/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vm/training/new_workspace/install/package1/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/package1 build --build-base /home/vm/training/new_workspace/build/package1/build install --record /home/vm/training/new_workspace/build/package1/install.log --single-version-externally-managed install_data
+[2.008s] running egg_info
+[2.008s] creating ../../build/package1/package1.egg-info
+[2.008s] writing ../../build/package1/package1.egg-info/PKG-INFO
+[2.008s] writing dependency_links to ../../build/package1/package1.egg-info/dependency_links.txt
+[2.009s] writing entry points to ../../build/package1/package1.egg-info/entry_points.txt
+[2.009s] writing requirements to ../../build/package1/package1.egg-info/requires.txt
+[2.009s] writing top-level names to ../../build/package1/package1.egg-info/top_level.txt
+[2.009s] writing manifest file '../../build/package1/package1.egg-info/SOURCES.txt'
+[2.009s] reading manifest file '../../build/package1/package1.egg-info/SOURCES.txt'
+[2.010s] writing manifest file '../../build/package1/package1.egg-info/SOURCES.txt'
+[2.011s] running build
+[2.011s] running build_py
+[2.011s] creating /home/vm/training/new_workspace/build/package1/build
+[2.012s] creating /home/vm/training/new_workspace/build/package1/build/lib
+[2.012s] creating /home/vm/training/new_workspace/build/package1/build/lib/package1
+[2.012s] copying package1/node1.py -> /home/vm/training/new_workspace/build/package1/build/lib/package1
+[2.013s] copying package1/__init__.py -> /home/vm/training/new_workspace/build/package1/build/lib/package1
+[2.013s] running install
+[2.013s] running install_lib
+[2.017s] creating /home/vm/training/new_workspace/install/package1/lib/python3.10/site-packages/package1
+[2.017s] copying /home/vm/training/new_workspace/build/package1/build/lib/package1/node1.py -> /home/vm/training/new_workspace/install/package1/lib/python3.10/site-packages/package1
+[2.019s] copying /home/vm/training/new_workspace/build/package1/build/lib/package1/__init__.py -> /home/vm/training/new_workspace/install/package1/lib/python3.10/site-packages/package1
+[2.021s] byte-compiling /home/vm/training/new_workspace/install/package1/lib/python3.10/site-packages/package1/node1.py to node1.cpython-310.pyc
+[2.021s] byte-compiling /home/vm/training/new_workspace/install/package1/lib/python3.10/site-packages/package1/__init__.py to __init__.cpython-310.pyc
+[2.025s] running install_data
+[2.025s] creating /home/vm/training/new_workspace/install/package1/share/ament_index
+[2.026s] creating /home/vm/training/new_workspace/install/package1/share/ament_index/resource_index
+[2.026s] creating /home/vm/training/new_workspace/install/package1/share/ament_index/resource_index/packages
+[2.026s] copying resource/package1 -> /home/vm/training/new_workspace/install/package1/share/ament_index/resource_index/packages
+[2.026s] copying package.xml -> /home/vm/training/new_workspace/install/package1/share/package1
+[2.026s] running install_egg_info
+[2.026s] Copying ../../build/package1/package1.egg-info to /home/vm/training/new_workspace/install/package1/lib/python3.10/site-packages/package1-0.0.0-py3.10.egg-info
+[2.028s] running install_scripts
+[2.051s] Installing node1 script to /home/vm/training/new_workspace/install/package1/lib/package1
+[2.053s] writing list of installed files to '/home/vm/training/new_workspace/build/package1/install.log'
+[2.082s] Invoked command in '/home/vm/training/new_workspace/src/package1' returned '0': PYTHONPATH=/home/vm/training/new_workspace/build/package1/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vm/training/new_workspace/install/package1/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/package1 build --build-base /home/vm/training/new_workspace/build/package1/build install --record /home/vm/training/new_workspace/build/package1/install.log --single-version-externally-managed install_data

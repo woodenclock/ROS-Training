@@ -1,0 +1,40 @@
+[0.471s] Invoking command in '/home/vm/training/ros2_ws/src/object_spawner': PYTHONPATH=/home/vm/training/ros2_ws/build/object_spawner/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vm/training/ros2_ws/install/object_spawner/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/object_spawner build --build-base /home/vm/training/ros2_ws/build/object_spawner/build install --record /home/vm/training/ros2_ws/build/object_spawner/install.log --single-version-externally-managed install_data
+[0.654s] running egg_info
+[0.654s] creating ../../build/object_spawner/object_spawner.egg-info
+[0.654s] writing ../../build/object_spawner/object_spawner.egg-info/PKG-INFO
+[0.654s] writing dependency_links to ../../build/object_spawner/object_spawner.egg-info/dependency_links.txt
+[0.654s] writing entry points to ../../build/object_spawner/object_spawner.egg-info/entry_points.txt
+[0.654s] writing requirements to ../../build/object_spawner/object_spawner.egg-info/requires.txt
+[0.654s] writing top-level names to ../../build/object_spawner/object_spawner.egg-info/top_level.txt
+[0.654s] writing manifest file '../../build/object_spawner/object_spawner.egg-info/SOURCES.txt'
+[0.655s] reading manifest file '../../build/object_spawner/object_spawner.egg-info/SOURCES.txt'
+[0.656s] writing manifest file '../../build/object_spawner/object_spawner.egg-info/SOURCES.txt'
+[0.656s] running build
+[0.656s] running build_py
+[0.656s] creating /home/vm/training/ros2_ws/build/object_spawner/build
+[0.656s] creating /home/vm/training/ros2_ws/build/object_spawner/build/lib
+[0.656s] creating /home/vm/training/ros2_ws/build/object_spawner/build/lib/object_spawner
+[0.656s] copying object_spawner/__init__.py -> /home/vm/training/ros2_ws/build/object_spawner/build/lib/object_spawner
+[0.656s] copying object_spawner/object_spawner.py -> /home/vm/training/ros2_ws/build/object_spawner/build/lib/object_spawner
+[0.656s] running install
+[0.656s] running install_lib
+[0.658s] creating /home/vm/training/ros2_ws/install/object_spawner/lib/python3.10/site-packages/object_spawner
+[0.658s] copying /home/vm/training/ros2_ws/build/object_spawner/build/lib/object_spawner/__init__.py -> /home/vm/training/ros2_ws/install/object_spawner/lib/python3.10/site-packages/object_spawner
+[0.658s] copying /home/vm/training/ros2_ws/build/object_spawner/build/lib/object_spawner/object_spawner.py -> /home/vm/training/ros2_ws/install/object_spawner/lib/python3.10/site-packages/object_spawner
+[0.658s] byte-compiling /home/vm/training/ros2_ws/install/object_spawner/lib/python3.10/site-packages/object_spawner/__init__.py to __init__.cpython-310.pyc
+[0.658s] byte-compiling /home/vm/training/ros2_ws/install/object_spawner/lib/python3.10/site-packages/object_spawner/object_spawner.py to object_spawner.cpython-310.pyc
+[0.659s] running install_data
+[0.659s] creating /home/vm/training/ros2_ws/install/object_spawner/share/ament_index
+[0.659s] creating /home/vm/training/ros2_ws/install/object_spawner/share/ament_index/resource_index
+[0.659s] creating /home/vm/training/ros2_ws/install/object_spawner/share/ament_index/resource_index/packages
+[0.659s] copying resource/object_spawner -> /home/vm/training/ros2_ws/install/object_spawner/share/ament_index/resource_index/packages
+[0.659s] copying package.xml -> /home/vm/training/ros2_ws/install/object_spawner/share/object_spawner
+[0.659s] creating /home/vm/training/ros2_ws/install/object_spawner/share/object_spawner/launch
+[0.660s] copying launch/demo.launch.py -> /home/vm/training/ros2_ws/install/object_spawner/share/object_spawner/launch
+[0.660s] copying launch/practical9.rviz -> /home/vm/training/ros2_ws/install/object_spawner/share/object_spawner/launch
+[0.660s] running install_egg_info
+[0.661s] Copying ../../build/object_spawner/object_spawner.egg-info to /home/vm/training/ros2_ws/install/object_spawner/lib/python3.10/site-packages/object_spawner-0.0.0-py3.10.egg-info
+[0.661s] running install_scripts
+[0.679s] Installing object_spawner_node script to /home/vm/training/ros2_ws/install/object_spawner/lib/object_spawner
+[0.679s] writing list of installed files to '/home/vm/training/ros2_ws/build/object_spawner/install.log'
+[0.696s] Invoked command in '/home/vm/training/ros2_ws/src/object_spawner' returned '0': PYTHONPATH=/home/vm/training/ros2_ws/build/object_spawner/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vm/training/ros2_ws/install/object_spawner/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/object_spawner build --build-base /home/vm/training/ros2_ws/build/object_spawner/build install --record /home/vm/training/ros2_ws/build/object_spawner/install.log --single-version-externally-managed install_data

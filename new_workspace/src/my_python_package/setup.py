@@ -1,4 +1,5 @@
 from setuptools import find_packages, setup
+import os
 
 package_name = 'my_python_package'
 
@@ -10,18 +11,15 @@ setup(
         ('share/ament_index/resource_index/packages',
             ['resource/' + package_name]),
         ('share/' + package_name, ['package.xml']),
+        (os.path.join('share', package_name, 'launch'), ['launch/two_nodes.launch.py'])
     ],
     install_requires=['setuptools'],
     zip_safe=True,
-    maintainer='vm',
-    maintainer_email='vm@todo.todo',
+    maintainer='maintainer',
+    maintainer_email='maintainer email',
     description='TODO: Package description',
     license='TODO: License declaration',
-    extras_require={
-        'test': [
-            'pytest',
-        ],
-    },
+    tests_require=['pytest'],
     entry_points={
         'console_scripts': [
             'my_node_executable = my_python_package.my_node:main',

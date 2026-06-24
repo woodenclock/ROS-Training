@@ -1,0 +1,3 @@
+[console_scripts]
+simple_velocity_sub_node = custom_msg_subscriber.custom_msg_subscriber:main
+

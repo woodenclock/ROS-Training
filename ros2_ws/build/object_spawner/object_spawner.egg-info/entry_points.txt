@@ -1,0 +1,3 @@
+[console_scripts]
+object_spawner_node = object_spawner.object_spawner:main
+

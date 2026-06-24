@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+../../build/package2/package2.egg-info/PKG-INFO
+../../build/package2/package2.egg-info/SOURCES.txt
+../../build/package2/package2.egg-info/dependency_links.txt
+../../build/package2/package2.egg-info/entry_points.txt
+../../build/package2/package2.egg-info/requires.txt
+../../build/package2/package2.egg-info/top_level.txt
+../../build/package2/package2.egg-info/zip-safe
+package2/__init__.py
+package2/node2.py
+resource/package2
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

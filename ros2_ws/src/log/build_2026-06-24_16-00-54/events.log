@@ -1,0 +1,11 @@
+[0.000000] (-) TimerEvent: {}
+[0.000410] (-) JobUnselected: {'identifier': 'camera_service'}
+[0.000669] (-) JobUnselected: {'identifier': 'custom_msg_publisher'}
+[0.000704] (-) JobUnselected: {'identifier': 'custom_msg_subscriber'}
+[0.000734] (-) JobUnselected: {'identifier': 'image_viewer'}
+[0.000762] (-) JobUnselected: {'identifier': 'object_spawner'}
+[0.000791] (-) JobUnselected: {'identifier': 'perception_msgs'}
+[0.000818] (-) JobUnselected: {'identifier': 'pingpong_pkg'}
+[0.000845] (-) JobUnselected: {'identifier': 'simple_velocity_msg'}
+[0.000872] (-) JobUnselected: {'identifier': 'teleop_keyboard'}
+[0.001185] (-) EventReactorShutdown: {}

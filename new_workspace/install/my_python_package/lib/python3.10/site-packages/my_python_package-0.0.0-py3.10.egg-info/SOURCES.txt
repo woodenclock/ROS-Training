@@ -8,6 +8,7 @@ setup.py
 ../../build/my_python_package/my_python_package.egg-info/requires.txt
 ../../build/my_python_package/my_python_package.egg-info/top_level.txt
 ../../build/my_python_package/my_python_package.egg-info/zip-safe
+launch/two_nodes.launch.py
 my_python_package/__init__.py
 my_python_package/my_example_node.py
 my_python_package/my_node.py

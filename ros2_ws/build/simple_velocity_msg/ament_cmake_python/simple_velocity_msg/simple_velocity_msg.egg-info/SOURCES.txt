@@ -4,3 +4,5 @@ simple_velocity_msg.egg-info/PKG-INFO
 simple_velocity_msg.egg-info/SOURCES.txt
 simple_velocity_msg.egg-info/dependency_links.txt
 simple_velocity_msg.egg-info/top_level.txt
+simple_velocity_msg/msg/__init__.py
+simple_velocity_msg/msg/_simple_velocity.py

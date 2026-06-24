@@ -1,0 +1,20 @@
+[0.044s] Invoking command in '/home/vm/training/new_workspace/build/my_cmake_package': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/vm/training/ros2_ws/install/pingpong_pkg:/home/vm/training/ros2_ws/install/custom_msg_publisher:/home/vm/training/new_workspace/install/my_python_package:/opt/ros/humble /usr/bin/cmake --build /home/vm/training/new_workspace/build/my_cmake_package -- -j4 -l4
+[1.024s] Invoked command in '/home/vm/training/new_workspace/build/my_cmake_package' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/vm/training/ros2_ws/install/pingpong_pkg:/home/vm/training/ros2_ws/install/custom_msg_publisher:/home/vm/training/new_workspace/install/my_python_package:/opt/ros/humble /usr/bin/cmake --build /home/vm/training/new_workspace/build/my_cmake_package -- -j4 -l4
+[1.037s] Invoking command in '/home/vm/training/new_workspace/build/my_cmake_package': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/vm/training/ros2_ws/install/pingpong_pkg:/home/vm/training/ros2_ws/install/custom_msg_publisher:/home/vm/training/new_workspace/install/my_python_package:/opt/ros/humble /usr/bin/cmake --install /home/vm/training/new_workspace/build/my_cmake_package
+[1.058s] -- Install configuration: ""
+[1.061s] -- Up-to-date: /home/vm/training/new_workspace/install/my_cmake_package/share/ament_index/resource_index/package_run_dependencies/my_cmake_package
+[1.061s] -- Up-to-date: /home/vm/training/new_workspace/install/my_cmake_package/share/ament_index/resource_index/parent_prefix_path/my_cmake_package
+[1.061s] -- Up-to-date: /home/vm/training/new_workspace/install/my_cmake_package/share/my_cmake_package/environment/ament_prefix_path.sh
+[1.061s] -- Up-to-date: /home/vm/training/new_workspace/install/my_cmake_package/share/my_cmake_package/environment/ament_prefix_path.dsv
+[1.061s] -- Up-to-date: /home/vm/training/new_workspace/install/my_cmake_package/share/my_cmake_package/environment/path.sh
+[1.061s] -- Up-to-date: /home/vm/training/new_workspace/install/my_cmake_package/share/my_cmake_package/environment/path.dsv
+[1.062s] -- Up-to-date: /home/vm/training/new_workspace/install/my_cmake_package/share/my_cmake_package/local_setup.bash
+[1.062s] -- Up-to-date: /home/vm/training/new_workspace/install/my_cmake_package/share/my_cmake_package/local_setup.sh
+[1.062s] -- Up-to-date: /home/vm/training/new_workspace/install/my_cmake_package/share/my_cmake_package/local_setup.zsh
+[1.062s] -- Up-to-date: /home/vm/training/new_workspace/install/my_cmake_package/share/my_cmake_package/local_setup.dsv
+[1.062s] -- Up-to-date: /home/vm/training/new_workspace/install/my_cmake_package/share/my_cmake_package/package.dsv
+[1.064s] -- Up-to-date: /home/vm/training/new_workspace/install/my_cmake_package/share/ament_index/resource_index/packages/my_cmake_package
+[1.064s] -- Up-to-date: /home/vm/training/new_workspace/install/my_cmake_package/share/my_cmake_package/cmake/my_cmake_packageConfig.cmake
+[1.064s] -- Up-to-date: /home/vm/training/new_workspace/install/my_cmake_package/share/my_cmake_package/cmake/my_cmake_packageConfig-version.cmake
+[1.064s] -- Up-to-date: /home/vm/training/new_workspace/install/my_cmake_package/share/my_cmake_package/package.xml
+[1.067s] Invoked command in '/home/vm/training/new_workspace/build/my_cmake_package' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/vm/training/ros2_ws/install/pingpong_pkg:/home/vm/training/ros2_ws/install/custom_msg_publisher:/home/vm/training/new_workspace/install/my_python_package:/opt/ros/humble /usr/bin/cmake --install /home/vm/training/new_workspace/build/my_cmake_package

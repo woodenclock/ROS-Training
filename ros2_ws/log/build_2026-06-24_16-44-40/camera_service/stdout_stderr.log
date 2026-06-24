@@ -1,0 +1,38 @@
+running egg_info
+creating ../../build/camera_service/camera_service.egg-info
+writing ../../build/camera_service/camera_service.egg-info/PKG-INFO
+writing dependency_links to ../../build/camera_service/camera_service.egg-info/dependency_links.txt
+writing entry points to ../../build/camera_service/camera_service.egg-info/entry_points.txt
+writing requirements to ../../build/camera_service/camera_service.egg-info/requires.txt
+writing top-level names to ../../build/camera_service/camera_service.egg-info/top_level.txt
+writing manifest file '../../build/camera_service/camera_service.egg-info/SOURCES.txt'
+reading manifest file '../../build/camera_service/camera_service.egg-info/SOURCES.txt'
+writing manifest file '../../build/camera_service/camera_service.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/vm/training/ros2_ws/build/camera_service/build
+creating /home/vm/training/ros2_ws/build/camera_service/build/lib
+creating /home/vm/training/ros2_ws/build/camera_service/build/lib/camera_service
+copying camera_service/__init__.py -> /home/vm/training/ros2_ws/build/camera_service/build/lib/camera_service
+copying camera_service/camera_service.py -> /home/vm/training/ros2_ws/build/camera_service/build/lib/camera_service
+copying camera_service/transformations.py -> /home/vm/training/ros2_ws/build/camera_service/build/lib/camera_service
+running install
+running install_lib
+creating /home/vm/training/ros2_ws/install/camera_service/lib/python3.10/site-packages/camera_service
+copying /home/vm/training/ros2_ws/build/camera_service/build/lib/camera_service/__init__.py -> /home/vm/training/ros2_ws/install/camera_service/lib/python3.10/site-packages/camera_service
+copying /home/vm/training/ros2_ws/build/camera_service/build/lib/camera_service/camera_service.py -> /home/vm/training/ros2_ws/install/camera_service/lib/python3.10/site-packages/camera_service
+copying /home/vm/training/ros2_ws/build/camera_service/build/lib/camera_service/transformations.py -> /home/vm/training/ros2_ws/install/camera_service/lib/python3.10/site-packages/camera_service
+byte-compiling /home/vm/training/ros2_ws/install/camera_service/lib/python3.10/site-packages/camera_service/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/vm/training/ros2_ws/install/camera_service/lib/python3.10/site-packages/camera_service/camera_service.py to camera_service.cpython-310.pyc
+byte-compiling /home/vm/training/ros2_ws/install/camera_service/lib/python3.10/site-packages/camera_service/transformations.py to transformations.cpython-310.pyc
+running install_data
+creating /home/vm/training/ros2_ws/install/camera_service/share/ament_index
+creating /home/vm/training/ros2_ws/install/camera_service/share/ament_index/resource_index
+creating /home/vm/training/ros2_ws/install/camera_service/share/ament_index/resource_index/packages
+copying resource/camera_service -> /home/vm/training/ros2_ws/install/camera_service/share/ament_index/resource_index/packages
+copying package.xml -> /home/vm/training/ros2_ws/install/camera_service/share/camera_service
+running install_egg_info
+Copying ../../build/camera_service/camera_service.egg-info to /home/vm/training/ros2_ws/install/camera_service/lib/python3.10/site-packages/camera_service-0.0.0-py3.10.egg-info
+running install_scripts
+Installing aruco_detection_node script to /home/vm/training/ros2_ws/install/camera_service/lib/camera_service
+writing list of installed files to '/home/vm/training/ros2_ws/build/camera_service/install.log'
