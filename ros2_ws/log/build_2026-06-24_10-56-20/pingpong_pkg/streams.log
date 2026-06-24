@@ -1,0 +1,41 @@
+[0.443s] Invoking command in '/home/vm/training/ros2_ws/src/pingpong_pkg': PYTHONPATH=/home/vm/training/ros2_ws/build/pingpong_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vm/training/ros2_ws/install/pingpong_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/pingpong_pkg build --build-base /home/vm/training/ros2_ws/build/pingpong_pkg/build install --record /home/vm/training/ros2_ws/build/pingpong_pkg/install.log --single-version-externally-managed install_data
+[0.629s] running egg_info
+[0.630s] creating ../../build/pingpong_pkg/pingpong_pkg.egg-info
+[0.630s] writing ../../build/pingpong_pkg/pingpong_pkg.egg-info/PKG-INFO
+[0.632s] writing dependency_links to ../../build/pingpong_pkg/pingpong_pkg.egg-info/dependency_links.txt
+[0.632s] writing entry points to ../../build/pingpong_pkg/pingpong_pkg.egg-info/entry_points.txt
+[0.632s] writing requirements to ../../build/pingpong_pkg/pingpong_pkg.egg-info/requires.txt
+[0.632s] writing top-level names to ../../build/pingpong_pkg/pingpong_pkg.egg-info/top_level.txt
+[0.632s] writing manifest file '../../build/pingpong_pkg/pingpong_pkg.egg-info/SOURCES.txt'
+[0.632s] reading manifest file '../../build/pingpong_pkg/pingpong_pkg.egg-info/SOURCES.txt'
+[0.632s] writing manifest file '../../build/pingpong_pkg/pingpong_pkg.egg-info/SOURCES.txt'
+[0.632s] running build
+[0.633s] running build_py
+[0.633s] creating /home/vm/training/ros2_ws/build/pingpong_pkg/build
+[0.633s] creating /home/vm/training/ros2_ws/build/pingpong_pkg/build/lib
+[0.633s] creating /home/vm/training/ros2_ws/build/pingpong_pkg/build/lib/pingpong_pkg
+[0.633s] copying pingpong_pkg/player2.py -> /home/vm/training/ros2_ws/build/pingpong_pkg/build/lib/pingpong_pkg
+[0.633s] copying pingpong_pkg/__init__.py -> /home/vm/training/ros2_ws/build/pingpong_pkg/build/lib/pingpong_pkg
+[0.633s] copying pingpong_pkg/player1.py -> /home/vm/training/ros2_ws/build/pingpong_pkg/build/lib/pingpong_pkg
+[0.633s] running install
+[0.633s] running install_lib
+[0.635s] creating /home/vm/training/ros2_ws/install/pingpong_pkg/lib/python3.10/site-packages/pingpong_pkg
+[0.635s] copying /home/vm/training/ros2_ws/build/pingpong_pkg/build/lib/pingpong_pkg/player2.py -> /home/vm/training/ros2_ws/install/pingpong_pkg/lib/python3.10/site-packages/pingpong_pkg
+[0.635s] copying /home/vm/training/ros2_ws/build/pingpong_pkg/build/lib/pingpong_pkg/__init__.py -> /home/vm/training/ros2_ws/install/pingpong_pkg/lib/python3.10/site-packages/pingpong_pkg
+[0.636s] copying /home/vm/training/ros2_ws/build/pingpong_pkg/build/lib/pingpong_pkg/player1.py -> /home/vm/training/ros2_ws/install/pingpong_pkg/lib/python3.10/site-packages/pingpong_pkg
+[0.636s] byte-compiling /home/vm/training/ros2_ws/install/pingpong_pkg/lib/python3.10/site-packages/pingpong_pkg/player2.py to player2.cpython-310.pyc
+[0.636s] byte-compiling /home/vm/training/ros2_ws/install/pingpong_pkg/lib/python3.10/site-packages/pingpong_pkg/__init__.py to __init__.cpython-310.pyc
+[0.636s] byte-compiling /home/vm/training/ros2_ws/install/pingpong_pkg/lib/python3.10/site-packages/pingpong_pkg/player1.py to player1.cpython-310.pyc
+[0.636s] running install_data
+[0.636s] creating /home/vm/training/ros2_ws/install/pingpong_pkg/share/ament_index
+[0.636s] creating /home/vm/training/ros2_ws/install/pingpong_pkg/share/ament_index/resource_index
+[0.636s] creating /home/vm/training/ros2_ws/install/pingpong_pkg/share/ament_index/resource_index/packages
+[0.636s] copying resource/pingpong_pkg -> /home/vm/training/ros2_ws/install/pingpong_pkg/share/ament_index/resource_index/packages
+[0.636s] copying package.xml -> /home/vm/training/ros2_ws/install/pingpong_pkg/share/pingpong_pkg
+[0.636s] running install_egg_info
+[0.637s] Copying ../../build/pingpong_pkg/pingpong_pkg.egg-info to /home/vm/training/ros2_ws/install/pingpong_pkg/lib/python3.10/site-packages/pingpong_pkg-0.0.0-py3.10.egg-info
+[0.638s] running install_scripts
+[0.657s] Installing player1 script to /home/vm/training/ros2_ws/install/pingpong_pkg/lib/pingpong_pkg
+[0.657s] Installing player2 script to /home/vm/training/ros2_ws/install/pingpong_pkg/lib/pingpong_pkg
+[0.657s] writing list of installed files to '/home/vm/training/ros2_ws/build/pingpong_pkg/install.log'
+[0.682s] Invoked command in '/home/vm/training/ros2_ws/src/pingpong_pkg' returned '0': PYTHONPATH=/home/vm/training/ros2_ws/build/pingpong_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vm/training/ros2_ws/install/pingpong_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/pingpong_pkg build --build-base /home/vm/training/ros2_ws/build/pingpong_pkg/build install --record /home/vm/training/ros2_ws/build/pingpong_pkg/install.log --single-version-externally-managed install_data

@@ -1,0 +1,22 @@
+[0.458s] Invoking command in '/home/vm/training/ros2_ws/src/pingpong_pkg': PYTHONPATH=/home/vm/training/ros2_ws/build/pingpong_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vm/training/ros2_ws/install/pingpong_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/pingpong_pkg build --build-base /home/vm/training/ros2_ws/build/pingpong_pkg/build install --record /home/vm/training/ros2_ws/build/pingpong_pkg/install.log --single-version-externally-managed install_data
+[0.620s] running egg_info
+[0.621s] writing ../../build/pingpong_pkg/pingpong_pkg.egg-info/PKG-INFO
+[0.621s] writing dependency_links to ../../build/pingpong_pkg/pingpong_pkg.egg-info/dependency_links.txt
+[0.621s] writing entry points to ../../build/pingpong_pkg/pingpong_pkg.egg-info/entry_points.txt
+[0.621s] writing requirements to ../../build/pingpong_pkg/pingpong_pkg.egg-info/requires.txt
+[0.621s] writing top-level names to ../../build/pingpong_pkg/pingpong_pkg.egg-info/top_level.txt
+[0.623s] reading manifest file '../../build/pingpong_pkg/pingpong_pkg.egg-info/SOURCES.txt'
+[0.626s] writing manifest file '../../build/pingpong_pkg/pingpong_pkg.egg-info/SOURCES.txt'
+[0.626s] running build
+[0.626s] running build_py
+[0.626s] running install
+[0.627s] running install_lib
+[0.627s] running install_data
+[0.627s] running install_egg_info
+[0.627s] removing '/home/vm/training/ros2_ws/install/pingpong_pkg/lib/python3.10/site-packages/pingpong_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[0.630s] Copying ../../build/pingpong_pkg/pingpong_pkg.egg-info to /home/vm/training/ros2_ws/install/pingpong_pkg/lib/python3.10/site-packages/pingpong_pkg-0.0.0-py3.10.egg-info
+[0.630s] running install_scripts
+[0.647s] Installing player1 script to /home/vm/training/ros2_ws/install/pingpong_pkg/lib/pingpong_pkg
+[0.647s] Installing player2 script to /home/vm/training/ros2_ws/install/pingpong_pkg/lib/pingpong_pkg
+[0.647s] writing list of installed files to '/home/vm/training/ros2_ws/build/pingpong_pkg/install.log'
+[0.667s] Invoked command in '/home/vm/training/ros2_ws/src/pingpong_pkg' returned '0': PYTHONPATH=/home/vm/training/ros2_ws/build/pingpong_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vm/training/ros2_ws/install/pingpong_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/pingpong_pkg build --build-base /home/vm/training/ros2_ws/build/pingpong_pkg/build install --record /home/vm/training/ros2_ws/build/pingpong_pkg/install.log --single-version-externally-managed install_data

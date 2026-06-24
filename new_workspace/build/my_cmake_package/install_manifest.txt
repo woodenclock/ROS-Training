@@ -1,0 +1,15 @@
+/home/vm/training/new_workspace/install/my_cmake_package/share/ament_index/resource_index/package_run_dependencies/my_cmake_package
+/home/vm/training/new_workspace/install/my_cmake_package/share/ament_index/resource_index/parent_prefix_path/my_cmake_package
+/home/vm/training/new_workspace/install/my_cmake_package/share/my_cmake_package/environment/ament_prefix_path.sh
+/home/vm/training/new_workspace/install/my_cmake_package/share/my_cmake_package/environment/ament_prefix_path.dsv
+/home/vm/training/new_workspace/install/my_cmake_package/share/my_cmake_package/environment/path.sh
+/home/vm/training/new_workspace/install/my_cmake_package/share/my_cmake_package/environment/path.dsv
+/home/vm/training/new_workspace/install/my_cmake_package/share/my_cmake_package/local_setup.bash
+/home/vm/training/new_workspace/install/my_cmake_package/share/my_cmake_package/local_setup.sh
+/home/vm/training/new_workspace/install/my_cmake_package/share/my_cmake_package/local_setup.zsh
+/home/vm/training/new_workspace/install/my_cmake_package/share/my_cmake_package/local_setup.dsv
+/home/vm/training/new_workspace/install/my_cmake_package/share/my_cmake_package/package.dsv
+/home/vm/training/new_workspace/install/my_cmake_package/share/ament_index/resource_index/packages/my_cmake_package
+/home/vm/training/new_workspace/install/my_cmake_package/share/my_cmake_package/cmake/my_cmake_packageConfig.cmake
+/home/vm/training/new_workspace/install/my_cmake_package/share/my_cmake_package/cmake/my_cmake_packageConfig-version.cmake
+/home/vm/training/new_workspace/install/my_cmake_package/share/my_cmake_package/package.xml

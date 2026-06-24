@@ -1,0 +1,4 @@
+[console_scripts]
+my_example_node_executable = my_python_package.my_example_node:main
+my_node_executable = my_python_package.my_node:main
+
