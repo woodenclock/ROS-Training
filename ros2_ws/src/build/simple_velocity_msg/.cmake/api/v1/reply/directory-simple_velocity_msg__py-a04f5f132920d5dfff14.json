@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "simple_velocity_msg__py",
+		"source" : "/home/vm/training/ros2_ws/src/build/simple_velocity_msg/simple_velocity_msg__py"
+	}
+}

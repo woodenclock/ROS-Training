@@ -1,0 +1,3 @@
+[console_scripts]
+simple_velocity_pub_node = custom_msg_publisher.custom_msg_publisher:main
+

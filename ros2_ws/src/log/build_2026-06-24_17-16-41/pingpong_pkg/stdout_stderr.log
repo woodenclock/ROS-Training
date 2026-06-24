@@ -1,0 +1,39 @@
+running egg_info
+creating ../build/pingpong_pkg/pingpong_pkg.egg-info
+writing ../build/pingpong_pkg/pingpong_pkg.egg-info/PKG-INFO
+writing dependency_links to ../build/pingpong_pkg/pingpong_pkg.egg-info/dependency_links.txt
+writing entry points to ../build/pingpong_pkg/pingpong_pkg.egg-info/entry_points.txt
+writing requirements to ../build/pingpong_pkg/pingpong_pkg.egg-info/requires.txt
+writing top-level names to ../build/pingpong_pkg/pingpong_pkg.egg-info/top_level.txt
+writing manifest file '../build/pingpong_pkg/pingpong_pkg.egg-info/SOURCES.txt'
+reading manifest file '../build/pingpong_pkg/pingpong_pkg.egg-info/SOURCES.txt'
+writing manifest file '../build/pingpong_pkg/pingpong_pkg.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/vm/training/ros2_ws/src/build/pingpong_pkg/build
+creating /home/vm/training/ros2_ws/src/build/pingpong_pkg/build/lib
+creating /home/vm/training/ros2_ws/src/build/pingpong_pkg/build/lib/pingpong_pkg
+copying pingpong_pkg/player2.py -> /home/vm/training/ros2_ws/src/build/pingpong_pkg/build/lib/pingpong_pkg
+copying pingpong_pkg/__init__.py -> /home/vm/training/ros2_ws/src/build/pingpong_pkg/build/lib/pingpong_pkg
+copying pingpong_pkg/player1.py -> /home/vm/training/ros2_ws/src/build/pingpong_pkg/build/lib/pingpong_pkg
+running install
+running install_lib
+creating /home/vm/training/ros2_ws/src/install/pingpong_pkg/lib/python3.10/site-packages/pingpong_pkg
+copying /home/vm/training/ros2_ws/src/build/pingpong_pkg/build/lib/pingpong_pkg/player2.py -> /home/vm/training/ros2_ws/src/install/pingpong_pkg/lib/python3.10/site-packages/pingpong_pkg
+copying /home/vm/training/ros2_ws/src/build/pingpong_pkg/build/lib/pingpong_pkg/__init__.py -> /home/vm/training/ros2_ws/src/install/pingpong_pkg/lib/python3.10/site-packages/pingpong_pkg
+copying /home/vm/training/ros2_ws/src/build/pingpong_pkg/build/lib/pingpong_pkg/player1.py -> /home/vm/training/ros2_ws/src/install/pingpong_pkg/lib/python3.10/site-packages/pingpong_pkg
+byte-compiling /home/vm/training/ros2_ws/src/install/pingpong_pkg/lib/python3.10/site-packages/pingpong_pkg/player2.py to player2.cpython-310.pyc
+byte-compiling /home/vm/training/ros2_ws/src/install/pingpong_pkg/lib/python3.10/site-packages/pingpong_pkg/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/vm/training/ros2_ws/src/install/pingpong_pkg/lib/python3.10/site-packages/pingpong_pkg/player1.py to player1.cpython-310.pyc
+running install_data
+creating /home/vm/training/ros2_ws/src/install/pingpong_pkg/share/ament_index
+creating /home/vm/training/ros2_ws/src/install/pingpong_pkg/share/ament_index/resource_index
+creating /home/vm/training/ros2_ws/src/install/pingpong_pkg/share/ament_index/resource_index/packages
+copying resource/pingpong_pkg -> /home/vm/training/ros2_ws/src/install/pingpong_pkg/share/ament_index/resource_index/packages
+copying package.xml -> /home/vm/training/ros2_ws/src/install/pingpong_pkg/share/pingpong_pkg
+running install_egg_info
+Copying ../build/pingpong_pkg/pingpong_pkg.egg-info to /home/vm/training/ros2_ws/src/install/pingpong_pkg/lib/python3.10/site-packages/pingpong_pkg-0.0.0-py3.10.egg-info
+running install_scripts
+Installing player1 script to /home/vm/training/ros2_ws/src/install/pingpong_pkg/lib/pingpong_pkg
+Installing player2 script to /home/vm/training/ros2_ws/src/install/pingpong_pkg/lib/pingpong_pkg
+writing list of installed files to '/home/vm/training/ros2_ws/src/build/pingpong_pkg/install.log'

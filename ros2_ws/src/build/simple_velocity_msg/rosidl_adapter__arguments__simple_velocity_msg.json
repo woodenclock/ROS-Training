@@ -1,0 +1,6 @@
+{
+  "package_name": "simple_velocity_msg",
+  "non_idl_tuples": [
+    "/home/vm/training/ros2_ws/src/simple_velocity_msg:msg/SimpleVelocity.msg"
+  ]
+}

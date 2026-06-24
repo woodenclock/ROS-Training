@@ -1,0 +1,258 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-7daa80323b22d65b3618.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						17,
+						18
+					]
+				},
+				{
+					"build" : "simple_velocity_msg__py",
+					"jsonFile" : "directory-simple_velocity_msg__py-a04f5f132920d5dfff14.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/vm/training/ros2_ws/src/build/simple_velocity_msg/simple_velocity_msg__py",
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"build" : "simple_velocity_msg__rs",
+					"jsonFile" : "directory-simple_velocity_msg__rs-d535a4a8ca481cc00300.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/vm/training/ros2_ws/src/build/simple_velocity_msg/simple_velocity_msg__rs",
+					"targetIndexes" : 
+					[
+						16
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "simple_velocity_msg",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_simple_velocity_msg_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_simple_velocity_msg_egg-552a6f01cddba4dcd848.json",
+					"name" : "ament_cmake_python_build_simple_velocity_msg_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_copy_simple_velocity_msg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_copy_simple_velocity_msg-e271cfcaeb7315908eaa.json",
+					"name" : "ament_cmake_python_copy_simple_velocity_msg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "simple_velocity_msg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-simple_velocity_msg-e0aa068d60531fd54caa.json",
+					"name" : "simple_velocity_msg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "simple_velocity_msg__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-simple_velocity_msg__cpp-57455cfc1e900370563a.json",
+					"name" : "simple_velocity_msg__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "simple_velocity_msg__py::@729480a440e162ee5f79",
+					"jsonFile" : "target-simple_velocity_msg__py-6308c246d8a67d93635c.json",
+					"name" : "simple_velocity_msg__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "simple_velocity_msg__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-simple_velocity_msg__rosidl_generator_c-6eac8923e2e40c4476ec.json",
+					"name" : "simple_velocity_msg__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "simple_velocity_msg__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-simple_velocity_msg__rosidl_generator_py-175ae95331bb4f722850.json",
+					"name" : "simple_velocity_msg__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "simple_velocity_msg__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-simple_velocity_msg__rosidl_typesupport_c-12c77b47e2035cc1321b.json",
+					"name" : "simple_velocity_msg__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "simple_velocity_msg__rosidl_typesupport_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-simple_velocity_msg__rosidl_typesupport_c__pyext-d391d417b0cb18c40c51.json",
+					"name" : "simple_velocity_msg__rosidl_typesupport_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "simple_velocity_msg__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-simple_velocity_msg__rosidl_typesupport_cpp-25b94417114c851040f4.json",
+					"name" : "simple_velocity_msg__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "simple_velocity_msg__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-simple_velocity_msg__rosidl_typesupport_fastrtps_c-3ff3fdae015915fdeabc.json",
+					"name" : "simple_velocity_msg__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "simple_velocity_msg__rosidl_typesupport_fastrtps_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-simple_velocity_msg__rosidl_typesupport_fastrtps_c__pyext-ba2b9538b3851d37a43b.json",
+					"name" : "simple_velocity_msg__rosidl_typesupport_fastrtps_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "simple_velocity_msg__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-simple_velocity_msg__rosidl_typesupport_fastrtps_cpp-ea59034588af8f575151.json",
+					"name" : "simple_velocity_msg__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "simple_velocity_msg__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-simple_velocity_msg__rosidl_typesupport_introspection_c-ef11204375fd52fa6bad.json",
+					"name" : "simple_velocity_msg__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "simple_velocity_msg__rosidl_typesupport_introspection_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-simple_velocity_msg__rosidl_typesupport_introspection_c__pyext-5c67e2aaa36c76567b8d.json",
+					"name" : "simple_velocity_msg__rosidl_typesupport_introspection_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "simple_velocity_msg__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-simple_velocity_msg__rosidl_typesupport_introspection_cpp-6ac01a632d9aa9faaa79.json",
+					"name" : "simple_velocity_msg__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "simple_velocity_msg__rs::@888b26f205b05eb5efd8",
+					"jsonFile" : "target-simple_velocity_msg__rs-64bc85a22153f55490d8.json",
+					"name" : "simple_velocity_msg__rs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "simple_velocity_msg_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-simple_velocity_msg_uninstall-21d36ce0fe17d8524f73.json",
+					"name" : "simple_velocity_msg_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-b93eeb59e109ddd96ef3.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/vm/training/ros2_ws/src/build/simple_velocity_msg",
+		"source" : "/home/vm/training/ros2_ws/src/simple_velocity_msg"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

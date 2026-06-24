@@ -17,8 +17,8 @@ class ArucoDetectionNode(Node):
         self.arcuo_detection = ArucoDetection()
         self.object_coordinates = None
         self.bridge = CvBridge()
-        self.image_topic = '/image_raw'
-        self.info_topic = '/camera_info'
+        self.image_topic = '/camera1/image_raw'
+        self.info_topic = '/camera1/camera_info'
 
         # Camera Parameters Initialization
         self.info_msg = None

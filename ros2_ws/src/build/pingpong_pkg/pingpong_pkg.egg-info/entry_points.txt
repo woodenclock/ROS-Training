@@ -1,0 +1,4 @@
+[console_scripts]
+player1 = pingpong_pkg.player1:main
+player2 = pingpong_pkg.player2:main
+

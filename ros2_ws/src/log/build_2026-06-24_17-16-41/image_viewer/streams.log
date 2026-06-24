@@ -1,0 +1,37 @@
+[0.985s] Invoking command in '/home/vm/training/ros2_ws/src/image_viewer': PYTHONPATH=/home/vm/training/ros2_ws/src/build/image_viewer/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vm/training/ros2_ws/src/install/image_viewer/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/image_viewer build --build-base /home/vm/training/ros2_ws/src/build/image_viewer/build install --record /home/vm/training/ros2_ws/src/build/image_viewer/install.log --single-version-externally-managed install_data
+[1.193s] running egg_info
+[1.193s] creating ../build/image_viewer/image_viewer.egg-info
+[1.193s] writing ../build/image_viewer/image_viewer.egg-info/PKG-INFO
+[1.193s] writing dependency_links to ../build/image_viewer/image_viewer.egg-info/dependency_links.txt
+[1.193s] writing entry points to ../build/image_viewer/image_viewer.egg-info/entry_points.txt
+[1.193s] writing requirements to ../build/image_viewer/image_viewer.egg-info/requires.txt
+[1.193s] writing top-level names to ../build/image_viewer/image_viewer.egg-info/top_level.txt
+[1.193s] writing manifest file '../build/image_viewer/image_viewer.egg-info/SOURCES.txt'
+[1.193s] reading manifest file '../build/image_viewer/image_viewer.egg-info/SOURCES.txt'
+[1.194s] writing manifest file '../build/image_viewer/image_viewer.egg-info/SOURCES.txt'
+[1.194s] running build
+[1.194s] running build_py
+[1.194s] creating /home/vm/training/ros2_ws/src/build/image_viewer/build
+[1.195s] creating /home/vm/training/ros2_ws/src/build/image_viewer/build/lib
+[1.195s] creating /home/vm/training/ros2_ws/src/build/image_viewer/build/lib/image_viewer
+[1.197s] copying image_viewer/__init__.py -> /home/vm/training/ros2_ws/src/build/image_viewer/build/lib/image_viewer
+[1.197s] copying image_viewer/image_viewer.py -> /home/vm/training/ros2_ws/src/build/image_viewer/build/lib/image_viewer
+[1.197s] running install
+[1.197s] running install_lib
+[1.197s] creating /home/vm/training/ros2_ws/src/install/image_viewer/lib/python3.10/site-packages/image_viewer
+[1.197s] copying /home/vm/training/ros2_ws/src/build/image_viewer/build/lib/image_viewer/__init__.py -> /home/vm/training/ros2_ws/src/install/image_viewer/lib/python3.10/site-packages/image_viewer
+[1.197s] copying /home/vm/training/ros2_ws/src/build/image_viewer/build/lib/image_viewer/image_viewer.py -> /home/vm/training/ros2_ws/src/install/image_viewer/lib/python3.10/site-packages/image_viewer
+[1.197s] byte-compiling /home/vm/training/ros2_ws/src/install/image_viewer/lib/python3.10/site-packages/image_viewer/__init__.py to __init__.cpython-310.pyc
+[1.197s] byte-compiling /home/vm/training/ros2_ws/src/install/image_viewer/lib/python3.10/site-packages/image_viewer/image_viewer.py to image_viewer.cpython-310.pyc
+[1.197s] running install_data
+[1.198s] creating /home/vm/training/ros2_ws/src/install/image_viewer/share/ament_index
+[1.198s] creating /home/vm/training/ros2_ws/src/install/image_viewer/share/ament_index/resource_index
+[1.198s] creating /home/vm/training/ros2_ws/src/install/image_viewer/share/ament_index/resource_index/packages
+[1.198s] copying resource/image_viewer -> /home/vm/training/ros2_ws/src/install/image_viewer/share/ament_index/resource_index/packages
+[1.198s] copying package.xml -> /home/vm/training/ros2_ws/src/install/image_viewer/share/image_viewer
+[1.198s] running install_egg_info
+[1.203s] Copying ../build/image_viewer/image_viewer.egg-info to /home/vm/training/ros2_ws/src/install/image_viewer/lib/python3.10/site-packages/image_viewer-0.0.0-py3.10.egg-info
+[1.207s] running install_scripts
+[1.234s] Installing view_image script to /home/vm/training/ros2_ws/src/install/image_viewer/lib/image_viewer
+[1.235s] writing list of installed files to '/home/vm/training/ros2_ws/src/build/image_viewer/install.log'
+[1.456s] Invoked command in '/home/vm/training/ros2_ws/src/image_viewer' returned '0': PYTHONPATH=/home/vm/training/ros2_ws/src/build/image_viewer/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vm/training/ros2_ws/src/install/image_viewer/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/image_viewer build --build-base /home/vm/training/ros2_ws/src/build/image_viewer/build install --record /home/vm/training/ros2_ws/src/build/image_viewer/install.log --single-version-externally-managed install_data
