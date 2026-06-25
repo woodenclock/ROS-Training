@@ -1,0 +1,21 @@
+[0.949s] Invoking command in '/home/vm/training/ros2_ws/src/custom_msg_subscriber': PYTHONPATH=/home/vm/training/ros2_ws/build/custom_msg_subscriber/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vm/training/ros2_ws/install/custom_msg_subscriber/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/custom_msg_subscriber build --build-base /home/vm/training/ros2_ws/build/custom_msg_subscriber/build install --record /home/vm/training/ros2_ws/build/custom_msg_subscriber/install.log --single-version-externally-managed install_data
+[1.156s] running egg_info
+[1.157s] writing ../../build/custom_msg_subscriber/custom_msg_subscriber.egg-info/PKG-INFO
+[1.157s] writing dependency_links to ../../build/custom_msg_subscriber/custom_msg_subscriber.egg-info/dependency_links.txt
+[1.157s] writing entry points to ../../build/custom_msg_subscriber/custom_msg_subscriber.egg-info/entry_points.txt
+[1.158s] writing requirements to ../../build/custom_msg_subscriber/custom_msg_subscriber.egg-info/requires.txt
+[1.158s] writing top-level names to ../../build/custom_msg_subscriber/custom_msg_subscriber.egg-info/top_level.txt
+[1.162s] reading manifest file '../../build/custom_msg_subscriber/custom_msg_subscriber.egg-info/SOURCES.txt'
+[1.162s] writing manifest file '../../build/custom_msg_subscriber/custom_msg_subscriber.egg-info/SOURCES.txt'
+[1.162s] running build
+[1.162s] running build_py
+[1.162s] running install
+[1.162s] running install_lib
+[1.162s] running install_data
+[1.162s] running install_egg_info
+[1.165s] removing '/home/vm/training/ros2_ws/install/custom_msg_subscriber/lib/python3.10/site-packages/custom_msg_subscriber-0.0.0-py3.10.egg-info' (and everything under it)
+[1.168s] Copying ../../build/custom_msg_subscriber/custom_msg_subscriber.egg-info to /home/vm/training/ros2_ws/install/custom_msg_subscriber/lib/python3.10/site-packages/custom_msg_subscriber-0.0.0-py3.10.egg-info
+[1.174s] running install_scripts
+[1.203s] Installing simple_velocity_sub_node script to /home/vm/training/ros2_ws/install/custom_msg_subscriber/lib/custom_msg_subscriber
+[1.203s] writing list of installed files to '/home/vm/training/ros2_ws/build/custom_msg_subscriber/install.log'
+[1.385s] Invoked command in '/home/vm/training/ros2_ws/src/custom_msg_subscriber' returned '0': PYTHONPATH=/home/vm/training/ros2_ws/build/custom_msg_subscriber/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vm/training/ros2_ws/install/custom_msg_subscriber/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/custom_msg_subscriber build --build-base /home/vm/training/ros2_ws/build/custom_msg_subscriber/build install --record /home/vm/training/ros2_ws/build/custom_msg_subscriber/install.log --single-version-externally-managed install_data

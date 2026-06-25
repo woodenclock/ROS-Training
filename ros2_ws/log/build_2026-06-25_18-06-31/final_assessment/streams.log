@@ -1,0 +1,35 @@
+[0.966s] Invoking command in '/home/vm/training/ros2_ws/src/final_assessment': PYTHONPATH=/home/vm/training/ros2_ws/build/final_assessment/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vm/training/ros2_ws/install/final_assessment/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/final_assessment build --build-base /home/vm/training/ros2_ws/build/final_assessment/build install --record /home/vm/training/ros2_ws/build/final_assessment/install.log --single-version-externally-managed install_data
+[1.140s] running egg_info
+[1.140s] creating ../../build/final_assessment/final_assessment.egg-info
+[1.141s] writing ../../build/final_assessment/final_assessment.egg-info/PKG-INFO
+[1.141s] writing dependency_links to ../../build/final_assessment/final_assessment.egg-info/dependency_links.txt
+[1.141s] writing entry points to ../../build/final_assessment/final_assessment.egg-info/entry_points.txt
+[1.141s] writing requirements to ../../build/final_assessment/final_assessment.egg-info/requires.txt
+[1.141s] writing top-level names to ../../build/final_assessment/final_assessment.egg-info/top_level.txt
+[1.141s] writing manifest file '../../build/final_assessment/final_assessment.egg-info/SOURCES.txt'
+[1.142s] reading manifest file '../../build/final_assessment/final_assessment.egg-info/SOURCES.txt'
+[1.143s] writing manifest file '../../build/final_assessment/final_assessment.egg-info/SOURCES.txt'
+[1.144s] running build
+[1.144s] running build_py
+[1.144s] creating /home/vm/training/ros2_ws/build/final_assessment/build
+[1.144s] creating /home/vm/training/ros2_ws/build/final_assessment/build/lib
+[1.144s] creating /home/vm/training/ros2_ws/build/final_assessment/build/lib/final_assessment
+[1.144s] copying final_assessment/__init__.py -> /home/vm/training/ros2_ws/build/final_assessment/build/lib/final_assessment
+[1.144s] running install
+[1.144s] running install_lib
+[1.147s] creating /home/vm/training/ros2_ws/install/final_assessment/lib/python3.10/site-packages/final_assessment
+[1.147s] copying /home/vm/training/ros2_ws/build/final_assessment/build/lib/final_assessment/__init__.py -> /home/vm/training/ros2_ws/install/final_assessment/lib/python3.10/site-packages/final_assessment
+[1.147s] byte-compiling /home/vm/training/ros2_ws/install/final_assessment/lib/python3.10/site-packages/final_assessment/__init__.py to __init__.cpython-310.pyc
+[1.147s] running install_data
+[1.147s] creating /home/vm/training/ros2_ws/install/final_assessment/share/ament_index
+[1.147s] creating /home/vm/training/ros2_ws/install/final_assessment/share/ament_index/resource_index
+[1.147s] creating /home/vm/training/ros2_ws/install/final_assessment/share/ament_index/resource_index/packages
+[1.148s] copying resource/final_assessment -> /home/vm/training/ros2_ws/install/final_assessment/share/ament_index/resource_index/packages
+[1.148s] copying package.xml -> /home/vm/training/ros2_ws/install/final_assessment/share/final_assessment
+[1.148s] creating /home/vm/training/ros2_ws/install/final_assessment/share/final_assessment/launch
+[1.148s] copying launch/cam.launch.py -> /home/vm/training/ros2_ws/install/final_assessment/share/final_assessment/launch
+[1.148s] running install_egg_info
+[1.153s] Copying ../../build/final_assessment/final_assessment.egg-info to /home/vm/training/ros2_ws/install/final_assessment/lib/python3.10/site-packages/final_assessment-0.0.0-py3.10.egg-info
+[1.153s] running install_scripts
+[1.176s] writing list of installed files to '/home/vm/training/ros2_ws/build/final_assessment/install.log'
+[1.590s] Invoked command in '/home/vm/training/ros2_ws/src/final_assessment' returned '0': PYTHONPATH=/home/vm/training/ros2_ws/build/final_assessment/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vm/training/ros2_ws/install/final_assessment/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/final_assessment build --build-base /home/vm/training/ros2_ws/build/final_assessment/build install --record /home/vm/training/ros2_ws/build/final_assessment/install.log --single-version-externally-managed install_data
