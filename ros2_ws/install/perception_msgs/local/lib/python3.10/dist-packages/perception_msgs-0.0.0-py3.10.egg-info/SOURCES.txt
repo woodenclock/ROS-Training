@@ -4,3 +4,5 @@ perception_msgs.egg-info/PKG-INFO
 perception_msgs.egg-info/SOURCES.txt
 perception_msgs.egg-info/dependency_links.txt
 perception_msgs.egg-info/top_level.txt
+perception_msgs/srv/__init__.py
+perception_msgs/srv/_get_object_location.py

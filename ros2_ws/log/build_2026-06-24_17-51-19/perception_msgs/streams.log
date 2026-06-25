@@ -1,0 +1,172 @@
+[0.256s] Invoking command in '/home/vm/training/ros2_ws/build/perception_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/vm/training/ros2_ws/install/teleop_keyboard:/home/vm/training/ros2_ws/install/pingpong_pkg:/home/vm/training/ros2_ws/install/object_spawner:/home/vm/training/ros2_ws/install/image_viewer:/home/vm/training/ros2_ws/install/custom_msg_subscriber:/home/vm/training/ros2_ws/install/custom_msg_publisher:/home/vm/training/ros2_ws/install/camera_service:/home/vm/training/new_workspace/install/package2:/home/vm/training/new_workspace/install/package1:/home/vm/training/new_workspace/install/my_python_package:/opt/ros/humble /usr/bin/cmake --build /home/vm/training/ros2_ws/build/perception_msgs -- -j4 -l4
+[0.329s] [35m[1mConsolidate compiler generated dependencies of target perception_msgs__rosidl_generator_c[0m
+[0.337s] [  3%] Built target perception_msgs__rs
+[0.340s] [  6%] Built target perception_msgs__cpp
+[0.344s] [ 15%] Built target perception_msgs__rosidl_generator_c
+[0.352s] [ 15%] Built target ament_cmake_python_copy_perception_msgs
+[0.355s] [35m[1mConsolidate compiler generated dependencies of target perception_msgs__rosidl_typesupport_fastrtps_cpp[0m
+[0.359s] [35m[1mConsolidate compiler generated dependencies of target perception_msgs__rosidl_typesupport_introspection_cpp[0m
+[0.364s] [35m[1mConsolidate compiler generated dependencies of target perception_msgs__rosidl_typesupport_cpp[0m
+[0.366s] [35m[1mConsolidate compiler generated dependencies of target perception_msgs__rosidl_typesupport_fastrtps_c[0m
+[0.373s] [ 25%] Built target perception_msgs__rosidl_typesupport_fastrtps_cpp
+[0.379s] [ 34%] Built target perception_msgs__rosidl_typesupport_cpp
+[0.379s] [ 43%] Built target perception_msgs__rosidl_typesupport_fastrtps_c
+[0.384s] [ 53%] Built target perception_msgs__rosidl_typesupport_introspection_cpp
+[0.385s] [35m[1mConsolidate compiler generated dependencies of target perception_msgs__rosidl_typesupport_introspection_c[0m
+[0.392s] [35m[1mConsolidate compiler generated dependencies of target perception_msgs__rosidl_typesupport_c[0m
+[0.397s] [ 62%] Built target perception_msgs__rosidl_typesupport_introspection_c
+[0.401s] [ 71%] Built target perception_msgs__rosidl_typesupport_c
+[0.430s] [ 71%] Built target perception_msgs
+[0.451s] [ 75%] Built target perception_msgs__py
+[0.463s] [35m[1mConsolidate compiler generated dependencies of target perception_msgs__rosidl_generator_py[0m
+[0.485s] [ 81%] Built target perception_msgs__rosidl_generator_py
+[0.512s] [35m[1mConsolidate compiler generated dependencies of target perception_msgs__rosidl_typesupport_introspection_c__pyext[0m
+[0.512s] [35m[1mConsolidate compiler generated dependencies of target perception_msgs__rosidl_typesupport_fastrtps_c__pyext[0m
+[0.512s] [35m[1mConsolidate compiler generated dependencies of target perception_msgs__rosidl_typesupport_c__pyext[0m
+[0.528s] [ 87%] Built target perception_msgs__rosidl_typesupport_fastrtps_c__pyext
+[0.540s] [ 93%] Built target perception_msgs__rosidl_typesupport_introspection_c__pyext
+[0.541s] [100%] Built target perception_msgs__rosidl_typesupport_c__pyext
+[0.866s] running egg_info
+[0.867s] writing perception_msgs.egg-info/PKG-INFO
+[0.869s] writing dependency_links to perception_msgs.egg-info/dependency_links.txt
+[0.870s] writing top-level names to perception_msgs.egg-info/top_level.txt
+[0.875s] reading manifest file 'perception_msgs.egg-info/SOURCES.txt'
+[0.875s] writing manifest file 'perception_msgs.egg-info/SOURCES.txt'
+[0.928s] [100%] Built target ament_cmake_python_build_perception_msgs_egg
+[0.948s] Invoked command in '/home/vm/training/ros2_ws/build/perception_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/vm/training/ros2_ws/install/teleop_keyboard:/home/vm/training/ros2_ws/install/pingpong_pkg:/home/vm/training/ros2_ws/install/object_spawner:/home/vm/training/ros2_ws/install/image_viewer:/home/vm/training/ros2_ws/install/custom_msg_subscriber:/home/vm/training/ros2_ws/install/custom_msg_publisher:/home/vm/training/ros2_ws/install/camera_service:/home/vm/training/new_workspace/install/package2:/home/vm/training/new_workspace/install/package1:/home/vm/training/new_workspace/install/my_python_package:/opt/ros/humble /usr/bin/cmake --build /home/vm/training/ros2_ws/build/perception_msgs -- -j4 -l4
+[0.962s] Invoking command in '/home/vm/training/ros2_ws/build/perception_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/vm/training/ros2_ws/install/teleop_keyboard:/home/vm/training/ros2_ws/install/pingpong_pkg:/home/vm/training/ros2_ws/install/object_spawner:/home/vm/training/ros2_ws/install/image_viewer:/home/vm/training/ros2_ws/install/custom_msg_subscriber:/home/vm/training/ros2_ws/install/custom_msg_publisher:/home/vm/training/ros2_ws/install/camera_service:/home/vm/training/new_workspace/install/package2:/home/vm/training/new_workspace/install/package1:/home/vm/training/new_workspace/install/my_python_package:/opt/ros/humble /usr/bin/cmake --install /home/vm/training/ros2_ws/build/perception_msgs
+[0.970s] -- Install configuration: ""
+[0.971s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/share/ament_index/resource_index/rosidl_interfaces/perception_msgs
+[0.971s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/include/perception_msgs/perception_msgs
+[0.971s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/include/perception_msgs/perception_msgs/msg
+[0.972s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/include/perception_msgs/perception_msgs/msg/rosidl_generator_c__visibility_control.h
+[0.972s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/include/perception_msgs/perception_msgs/srv
+[0.972s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/include/perception_msgs/perception_msgs/srv/detail
+[0.972s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/include/perception_msgs/perception_msgs/srv/detail/get_object_location__type_support.h
+[0.972s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/include/perception_msgs/perception_msgs/srv/detail/get_object_location__struct.h
+[0.972s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/include/perception_msgs/perception_msgs/srv/detail/get_object_location__functions.h
+[0.972s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/include/perception_msgs/perception_msgs/srv/detail/get_object_location__functions.c
+[0.972s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/include/perception_msgs/perception_msgs/srv/get_object_location.h
+[0.972s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/share/perception_msgs/environment/library_path.sh
+[0.972s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/share/perception_msgs/environment/library_path.dsv
+[0.973s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/lib/libperception_msgs__rosidl_generator_c.so
+[0.974s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/include/perception_msgs/perception_msgs
+[0.974s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/include/perception_msgs/perception_msgs/msg
+[0.974s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/include/perception_msgs/perception_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[0.974s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/include/perception_msgs/perception_msgs/srv
+[0.974s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/include/perception_msgs/perception_msgs/srv/detail
+[0.974s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/include/perception_msgs/perception_msgs/srv/detail/get_object_location__rosidl_typesupport_fastrtps_c.h
+[0.974s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/lib/libperception_msgs__rosidl_typesupport_fastrtps_c.so
+[0.975s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/include/perception_msgs/perception_msgs
+[0.975s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/include/perception_msgs/perception_msgs/msg
+[0.975s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/include/perception_msgs/perception_msgs/msg/rosidl_generator_cpp__visibility_control.hpp
+[0.975s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/include/perception_msgs/perception_msgs/srv
+[0.975s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/include/perception_msgs/perception_msgs/srv/detail
+[0.976s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/include/perception_msgs/perception_msgs/srv/detail/get_object_location__type_support.hpp
+[0.976s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/include/perception_msgs/perception_msgs/srv/detail/get_object_location__builder.hpp
+[0.976s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/include/perception_msgs/perception_msgs/srv/detail/get_object_location__struct.hpp
+[0.976s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/include/perception_msgs/perception_msgs/srv/detail/get_object_location__traits.hpp
+[0.978s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/include/perception_msgs/perception_msgs/srv/get_object_location.hpp
+[0.978s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/include/perception_msgs/perception_msgs
+[0.978s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/include/perception_msgs/perception_msgs/msg
+[0.978s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/include/perception_msgs/perception_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[0.978s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/include/perception_msgs/perception_msgs/srv
+[0.978s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/include/perception_msgs/perception_msgs/srv/detail
+[0.978s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/include/perception_msgs/perception_msgs/srv/detail/get_object_location__rosidl_typesupport_fastrtps_cpp.hpp
+[0.978s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/include/perception_msgs/perception_msgs/srv/detail/dds_fastrtps
+[0.978s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/lib/libperception_msgs__rosidl_typesupport_fastrtps_cpp.so
+[0.979s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/include/perception_msgs/perception_msgs
+[0.979s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/include/perception_msgs/perception_msgs/msg
+[0.979s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/include/perception_msgs/perception_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[0.979s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/include/perception_msgs/perception_msgs/srv
+[0.981s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/include/perception_msgs/perception_msgs/srv/detail
+[0.981s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/include/perception_msgs/perception_msgs/srv/detail/get_object_location__rosidl_typesupport_introspection_c.h
+[0.981s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/include/perception_msgs/perception_msgs/srv/detail/get_object_location__type_support.c
+[0.981s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/lib/libperception_msgs__rosidl_typesupport_introspection_c.so
+[0.982s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/lib/libperception_msgs__rosidl_typesupport_c.so
+[0.982s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/include/perception_msgs/perception_msgs
+[0.982s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/include/perception_msgs/perception_msgs/srv
+[0.982s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/include/perception_msgs/perception_msgs/srv/detail
+[0.982s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/include/perception_msgs/perception_msgs/srv/detail/get_object_location__type_support.cpp
+[0.982s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/include/perception_msgs/perception_msgs/srv/detail/get_object_location__rosidl_typesupport_introspection_cpp.hpp
+[0.985s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/lib/libperception_msgs__rosidl_typesupport_introspection_cpp.so
+[0.986s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/lib/libperception_msgs__rosidl_typesupport_cpp.so
+[0.987s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/share/perception_msgs/environment/pythonpath.sh
+[0.987s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/share/perception_msgs/environment/pythonpath.dsv
+[0.987s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/local/lib/python3.10/dist-packages/perception_msgs-0.0.0-py3.10.egg-info
+[0.987s] -- Installing: /home/vm/training/ros2_ws/install/perception_msgs/local/lib/python3.10/dist-packages/perception_msgs-0.0.0-py3.10.egg-info/dependency_links.txt
+[0.987s] -- Installing: /home/vm/training/ros2_ws/install/perception_msgs/local/lib/python3.10/dist-packages/perception_msgs-0.0.0-py3.10.egg-info/top_level.txt
+[0.988s] -- Installing: /home/vm/training/ros2_ws/install/perception_msgs/local/lib/python3.10/dist-packages/perception_msgs-0.0.0-py3.10.egg-info/SOURCES.txt
+[0.988s] -- Installing: /home/vm/training/ros2_ws/install/perception_msgs/local/lib/python3.10/dist-packages/perception_msgs-0.0.0-py3.10.egg-info/PKG-INFO
+[0.988s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/local/lib/python3.10/dist-packages/perception_msgs
+[0.989s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/local/lib/python3.10/dist-packages/perception_msgs/_perception_msgs_s.ep.rosidl_typesupport_introspection_c.c
+[0.989s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/local/lib/python3.10/dist-packages/perception_msgs/__init__.py
+[0.989s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/local/lib/python3.10/dist-packages/perception_msgs/_perception_msgs_s.ep.rosidl_typesupport_c.c
+[0.989s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/local/lib/python3.10/dist-packages/perception_msgs/perception_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[0.990s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/local/lib/python3.10/dist-packages/perception_msgs/srv
+[0.992s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/local/lib/python3.10/dist-packages/perception_msgs/srv/__init__.py
+[0.992s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/local/lib/python3.10/dist-packages/perception_msgs/srv/_get_object_location_s.c
+[0.992s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/local/lib/python3.10/dist-packages/perception_msgs/srv/_get_object_location.py
+[0.992s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/local/lib/python3.10/dist-packages/perception_msgs/perception_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[0.992s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/local/lib/python3.10/dist-packages/perception_msgs/libperception_msgs__rosidl_generator_py.so
+[0.992s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/local/lib/python3.10/dist-packages/perception_msgs/perception_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[0.992s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/local/lib/python3.10/dist-packages/perception_msgs/_perception_msgs_s.ep.rosidl_typesupport_fastrtps_c.c
+[1.025s] Listing '/home/vm/training/ros2_ws/install/perception_msgs/local/lib/python3.10/dist-packages/perception_msgs'...
+[1.025s] Listing '/home/vm/training/ros2_ws/install/perception_msgs/local/lib/python3.10/dist-packages/perception_msgs/srv'...
+[1.031s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/local/lib/python3.10/dist-packages/perception_msgs/perception_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[1.033s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/local/lib/python3.10/dist-packages/perception_msgs/perception_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[1.034s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/local/lib/python3.10/dist-packages/perception_msgs/perception_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[1.036s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/lib/libperception_msgs__rosidl_generator_py.so
+[1.036s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/share/ament_index/resource_index/rust_packages/perception_msgs
+[1.036s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/share/perception_msgs/rust
+[1.036s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/share/perception_msgs/rust/Cargo.toml
+[1.036s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/share/perception_msgs/rust/src
+[1.036s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/share/perception_msgs/rust/src/lib.rs
+[1.037s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/share/perception_msgs/rust/src/srv
+[1.037s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/share/perception_msgs/rust/src/srv/rmw.rs
+[1.037s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/share/perception_msgs/rust/src/srv.rs
+[1.037s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/share/perception_msgs/rust/build.rs
+[1.037s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/share/perception_msgs/srv/GetObjectLocation.idl
+[1.037s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/share/perception_msgs/srv/GetObjectLocation.srv
+[1.037s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/share/perception_msgs/srv/GetObjectLocation_Request.msg
+[1.037s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/share/perception_msgs/srv/GetObjectLocation_Response.msg
+[1.037s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/share/ament_index/resource_index/package_run_dependencies/perception_msgs
+[1.037s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/share/ament_index/resource_index/parent_prefix_path/perception_msgs
+[1.037s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/share/perception_msgs/environment/ament_prefix_path.sh
+[1.037s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/share/perception_msgs/environment/ament_prefix_path.dsv
+[1.037s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/share/perception_msgs/environment/path.sh
+[1.037s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/share/perception_msgs/environment/path.dsv
+[1.037s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/share/perception_msgs/local_setup.bash
+[1.037s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/share/perception_msgs/local_setup.sh
+[1.037s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/share/perception_msgs/local_setup.zsh
+[1.038s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/share/perception_msgs/local_setup.dsv
+[1.038s] -- Installing: /home/vm/training/ros2_ws/install/perception_msgs/share/perception_msgs/package.dsv
+[1.038s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/share/ament_index/resource_index/packages/perception_msgs
+[1.046s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/share/perception_msgs/cmake/export_perception_msgs__rosidl_generator_cExport.cmake
+[1.046s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/share/perception_msgs/cmake/export_perception_msgs__rosidl_generator_cExport-noconfig.cmake
+[1.046s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/share/perception_msgs/cmake/export_perception_msgs__rosidl_typesupport_fastrtps_cExport.cmake
+[1.046s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/share/perception_msgs/cmake/export_perception_msgs__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[1.046s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/share/perception_msgs/cmake/export_perception_msgs__rosidl_generator_cppExport.cmake
+[1.046s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/share/perception_msgs/cmake/export_perception_msgs__rosidl_typesupport_fastrtps_cppExport.cmake
+[1.046s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/share/perception_msgs/cmake/export_perception_msgs__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[1.046s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/share/perception_msgs/cmake/perception_msgs__rosidl_typesupport_introspection_cExport.cmake
+[1.047s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/share/perception_msgs/cmake/perception_msgs__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[1.047s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/share/perception_msgs/cmake/perception_msgs__rosidl_typesupport_cExport.cmake
+[1.048s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/share/perception_msgs/cmake/perception_msgs__rosidl_typesupport_cExport-noconfig.cmake
+[1.048s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/share/perception_msgs/cmake/perception_msgs__rosidl_typesupport_introspection_cppExport.cmake
+[1.048s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/share/perception_msgs/cmake/perception_msgs__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[1.048s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/share/perception_msgs/cmake/perception_msgs__rosidl_typesupport_cppExport.cmake
+[1.048s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/share/perception_msgs/cmake/perception_msgs__rosidl_typesupport_cppExport-noconfig.cmake
+[1.049s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/share/perception_msgs/cmake/export_perception_msgs__rosidl_generator_pyExport.cmake
+[1.049s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/share/perception_msgs/cmake/export_perception_msgs__rosidl_generator_pyExport-noconfig.cmake
+[1.049s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/share/perception_msgs/cmake/rosidl_cmake-extras.cmake
+[1.049s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/share/perception_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[1.049s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/share/perception_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[1.049s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/share/perception_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[1.050s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/share/perception_msgs/cmake/ament_cmake_export_targets-extras.cmake
+[1.050s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/share/perception_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[1.050s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/share/perception_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[1.050s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/share/perception_msgs/cmake/perception_msgsConfig.cmake
+[1.050s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/share/perception_msgs/cmake/perception_msgsConfig-version.cmake
+[1.050s] -- Up-to-date: /home/vm/training/ros2_ws/install/perception_msgs/share/perception_msgs/package.xml
+[1.056s] Invoked command in '/home/vm/training/ros2_ws/build/perception_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/vm/training/ros2_ws/install/teleop_keyboard:/home/vm/training/ros2_ws/install/pingpong_pkg:/home/vm/training/ros2_ws/install/object_spawner:/home/vm/training/ros2_ws/install/image_viewer:/home/vm/training/ros2_ws/install/custom_msg_subscriber:/home/vm/training/ros2_ws/install/custom_msg_publisher:/home/vm/training/ros2_ws/install/camera_service:/home/vm/training/new_workspace/install/package2:/home/vm/training/new_workspace/install/package1:/home/vm/training/new_workspace/install/my_python_package:/opt/ros/humble /usr/bin/cmake --install /home/vm/training/ros2_ws/build/perception_msgs

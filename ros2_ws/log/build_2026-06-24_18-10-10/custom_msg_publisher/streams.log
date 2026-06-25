@@ -1,0 +1,21 @@
+[1.617s] Invoking command in '/home/vm/training/ros2_ws/src/custom_msg_publisher': PYTHONPATH=/home/vm/training/ros2_ws/build/custom_msg_publisher/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vm/training/ros2_ws/install/custom_msg_publisher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/custom_msg_publisher build --build-base /home/vm/training/ros2_ws/build/custom_msg_publisher/build install --record /home/vm/training/ros2_ws/build/custom_msg_publisher/install.log --single-version-externally-managed install_data
+[2.008s] running egg_info
+[2.010s] writing ../../build/custom_msg_publisher/custom_msg_publisher.egg-info/PKG-INFO
+[2.011s] writing dependency_links to ../../build/custom_msg_publisher/custom_msg_publisher.egg-info/dependency_links.txt
+[2.011s] writing entry points to ../../build/custom_msg_publisher/custom_msg_publisher.egg-info/entry_points.txt
+[2.011s] writing requirements to ../../build/custom_msg_publisher/custom_msg_publisher.egg-info/requires.txt
+[2.012s] writing top-level names to ../../build/custom_msg_publisher/custom_msg_publisher.egg-info/top_level.txt
+[2.016s] reading manifest file '../../build/custom_msg_publisher/custom_msg_publisher.egg-info/SOURCES.txt'
+[2.017s] writing manifest file '../../build/custom_msg_publisher/custom_msg_publisher.egg-info/SOURCES.txt'
+[2.017s] running build
+[2.018s] running build_py
+[2.018s] running install
+[2.018s] running install_lib
+[2.020s] running install_data
+[2.020s] running install_egg_info
+[2.022s] removing '/home/vm/training/ros2_ws/install/custom_msg_publisher/lib/python3.10/site-packages/custom_msg_publisher-0.0.0-py3.10.egg-info' (and everything under it)
+[2.028s] Copying ../../build/custom_msg_publisher/custom_msg_publisher.egg-info to /home/vm/training/ros2_ws/install/custom_msg_publisher/lib/python3.10/site-packages/custom_msg_publisher-0.0.0-py3.10.egg-info
+[2.032s] running install_scripts
+[2.067s] Installing simple_velocity_pub_node script to /home/vm/training/ros2_ws/install/custom_msg_publisher/lib/custom_msg_publisher
+[2.070s] writing list of installed files to '/home/vm/training/ros2_ws/build/custom_msg_publisher/install.log'
+[2.302s] Invoked command in '/home/vm/training/ros2_ws/src/custom_msg_publisher' returned '0': PYTHONPATH=/home/vm/training/ros2_ws/build/custom_msg_publisher/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vm/training/ros2_ws/install/custom_msg_publisher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/custom_msg_publisher build --build-base /home/vm/training/ros2_ws/build/custom_msg_publisher/build install --record /home/vm/training/ros2_ws/build/custom_msg_publisher/install.log --single-version-externally-managed install_data

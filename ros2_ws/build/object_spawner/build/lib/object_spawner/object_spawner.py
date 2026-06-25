@@ -89,8 +89,11 @@ class ObjectSpawnerNode(Node):
 def main():
     rclpy.init()
     node = ObjectSpawnerNode()
+
     while rclpy.ok():
         node.send_request()
+        rclpy.spin_once(node, timeout_sec=1.0)
+
     node.destroy_node()
     rclpy.shutdown()
 
